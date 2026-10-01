@@ -1,0 +1,1 @@
+# scholorship-checker
